@@ -1,4 +1,4 @@
-
+![logo](https://github.com/PrafoTekno/Badadak/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
 
 <h1 align="center">Hi 👋, I'm Salfatore</h1>
 <h3 align="center">A first year in Electrical Engineering</h3>
