@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **arduino**
+- 💬 Ask me about **arduino, python, c++, java**
 
 - 📫 How to reach me **yuventusprafo@gmail.com**
 
